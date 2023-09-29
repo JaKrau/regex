@@ -53,7 +53,7 @@ Character Classes are used to distinguish between different numbers, letters, an
 ### Flags
 Regular expressions have optional flags that allow for functionality like global searching and case-insensitive searching. These flags can be used separately or together in any order, and are included as part of the regular expression.
 
-| Flag| Description | # Corresponding property |
+| Flag | Description | Corresponding property |
 |-----|:-----------:|-------------------------:|
 | d   |  Generate indices for substring matches. | hasIndices |
 | g   |  Global search. | global |
